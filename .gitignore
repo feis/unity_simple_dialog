@@ -1,0 +1,10 @@
+*/Library/*
+*/obj/*
+*/.idea/*
+*/.vs/*
+*/Assets/Plugins/Editor/JetBrains/*
+*/Assets/Plugins/Editor/JetBrains.meta
+*/Temp/
+obj/*
+Logs/*
+.vs/*
